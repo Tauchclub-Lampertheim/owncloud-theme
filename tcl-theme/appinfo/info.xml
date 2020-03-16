@@ -1,8 +1,7 @@
 <?xml version="1.0"?>
 <info>
-	<id>theme-tcl</id>
-	<name>TCL ownCloud Theme</name>
-	<description>ownCloud theme for TCL.</description>
+	<id>tcl-theme</id>
+	<name>Tauchclub Lampertheim e. V. ownCloud Theme</name>
 	<licence>AGPL</licence>
 	<author>Benjamin Ihrig</author>
 	<version>1.0.0</version>
