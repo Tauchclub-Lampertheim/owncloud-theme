@@ -1,0 +1,30 @@
+/**
+ * @author Benjamin Ihrig (github.com/ihrigb)
+ * @license AGPL-3.0
+ *
+ * This code is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License, version 3,
+ * as published by the Free Software Foundation.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License, version 3,
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>
+ */
+
+
+/* log in screen background color and image */
+/* gradient of the header color and a brighter shade */
+/* can also be a flat color or an image */
+#body-login {
+	background-image: url("../img/background.jpg") !important;
+   background-image: url("../img/background.jpg"); /* path to image */
+   background-position: 50% 50%; /* ensure optimal scalability */
+   background-repeat: no-repeat; /* prevent tiled background */
+   background-size: cover; /* ensure screen coverage */
+   text-align: center; /* Center Entitlement text, copyright */
+   background-color: #000000 !important; /* Fallback for old browsers */
+}
